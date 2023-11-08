@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Software Engineering, Distributed System
+- 📫 How to reach me: [Blog](https://blog.kkkzoz.top/), kkkzoz@qq.com
+
+
+
 <!--
 **KKKZOZ/KKKZOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
