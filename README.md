@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/3d3cd454-4851-419e-ab98-0f85a4d69dbf.svg)](https://wakatime.com/@3d3cd454-4851-419e-ab98-0f85a4d69dbf)
+
 - 🌱 I’m currently learning Software Engineering, Distributed System
 - 📫 How to reach me: [Blog](https://blog.kkkzoz.top/), kkkzoz@qq.com
 
