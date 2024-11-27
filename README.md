@@ -2,8 +2,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/3d3cd454-4851-419e-ab98-0f85a4d69dbf.svg)](https://wakatime.com/@3d3cd454-4851-419e-ab98-0f85a4d69dbf)
 
+![](https://komarev.com/ghpvc/?username=kkkzoz&color=green)
+
 - 🌱 I’m currently learning Software Engineering, Distributed System
-- 📫 How to reach me: [Blog](https://blog.kkkzoz.top/), kkkzoz@qq.com
+- 📫 How to reach me: [My Blog](https://blog.kkkzoz.top/), kkkzoz@qq.com
 
 
 
