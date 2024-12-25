@@ -9,6 +9,10 @@
 
 ![](https://raw.githubusercontent.com/kkkzoz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+---
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#18](https://github.com/KKKZOZ/hugo-admonitions/pull/18) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 2. 🗣 Commented on [#18](https://github.com/KKKZOZ/hugo-admonitions/pull/18#issuecomment-2561518558) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
