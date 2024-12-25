@@ -5,9 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=kkkzoz&color=green)
 
 - 🌱 I’m currently learning Software Engineering, Distributed System
-- 📫 How to reach me: [My Blog](https://blog.kkkzoz.top/), kkkzoz@qq.com
+- 📫 How to reach me: [My Blog](https://blog.kkkzoz.top/), <kkkzoz@qq.com>
 
+![](https://raw.githubusercontent.com/kkkzoz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+<!--START_SECTION:activity-->
 
 <!--
 **KKKZOZ/KKKZOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
