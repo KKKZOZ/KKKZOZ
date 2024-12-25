@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Software Engineering, Distributed System
 - 📫 How to reach me: [My Blog](https://blog.kkkzoz.top/), <kkkzoz@qq.com>
 
-![](https://raw.githubusercontent.com/kkkzoz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/kkkzoz/github-stats/actions_branch/generated_images/languages.svg)
 
 ---
 
