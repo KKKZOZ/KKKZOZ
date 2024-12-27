@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/KKKZOZ/hugo-admonitions/pull/18) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 🗣 Commented on [#18](https://github.com/KKKZOZ/hugo-admonitions/pull/18#issuecomment-2561518558) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🔒 Closed issue [#7](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/7) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-4. 🎉 Merged PR [#8](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/8) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-5. 💪 Opened PR [#8](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/8) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. ❗ Opened issue [#14](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/14) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+2. ❗ Opened issue [#13](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/13) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+3. ❗ Opened issue [#12](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/12) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+4. 🎉 Merged PR [#18](https://github.com/KKKZOZ/hugo-admonitions/pull/18) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. 🗣 Commented on [#18](https://github.com/KKKZOZ/hugo-admonitions/pull/18#issuecomment-2561518558) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
