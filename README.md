@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/9) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-2. 🔓 Reopened issue [#9](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/9) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. 🔒 Closed issue [#11](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/11) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+2. 🔒 Closed issue [#10](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/10) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 3. 🔒 Closed issue [#9](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/9) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-4. 🔒 Closed issue [#14](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/14) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-5. 🗣 Commented on [#14](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/14#issuecomment-2563444995) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+4. 🔓 Reopened issue [#9](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/9) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+5. 🔒 Closed issue [#9](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/9) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 <!--END_SECTION:activity-->
 
 <!--
