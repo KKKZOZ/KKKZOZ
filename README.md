@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/33) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-2. 🔒 Closed issue [#33](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/33) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-3. 🎉 Merged PR [#35](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/35) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-4. 💪 Opened PR [#35](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/35) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-5. ❗ Opened issue [#33](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/33) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. 🔒 Closed issue [#37](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/37) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+2. 🎉 Merged PR [#38](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/38) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+3. 💪 Opened PR [#38](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/38) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+4. ❗ Opened issue [#37](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/37) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+5. 🔒 Closed issue [#36](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/36) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 <!--END_SECTION:activity-->
 
 <!--
