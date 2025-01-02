@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/32) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-2. 🔒 Closed issue [#27](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/27) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-3. 🔒 Closed issue [#23](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/23) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-4. 🔒 Closed issue [#26](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/26) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-5. 🔒 Closed issue [#25](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/25) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. 🔒 Closed issue [#33](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/33) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+2. 🔒 Closed issue [#33](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/33) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+3. 🎉 Merged PR [#35](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/35) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+4. 💪 Opened PR [#35](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/35) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+5. ❗ Opened issue [#33](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/33) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 <!--END_SECTION:activity-->
 
 <!--
