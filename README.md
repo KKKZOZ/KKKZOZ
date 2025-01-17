@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#39](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/39) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-2. 🎉 Merged PR [#40](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/40) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-3. 💪 Opened PR [#40](https://github.com/KKKZOZ/smart-meeting-transcript-system/pull/40) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-4. 🗣 Commented on [#15](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/15#issuecomment-2568583141) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-5. 🔒 Closed issue [#15](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/15) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. 🔒 Closed issue [#30](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/30) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+2. 🗣 Commented on [#30](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/30#issuecomment-2597339950) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+3. 🗣 Commented on [#13](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/13#issuecomment-2597337088) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+4. 🔒 Closed issue [#13](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/13) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+5. 🔒 Closed issue [#41](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/41) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 <!--END_SECTION:activity-->
 
 <!--
