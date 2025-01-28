@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/18#issuecomment-2597341245) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-2. 🔒 Closed issue [#18](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/18) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-3. 🔒 Closed issue [#30](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/30) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-4. 🗣 Commented on [#30](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/30#issuecomment-2597339950) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
-5. 🗣 Commented on [#13](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/13#issuecomment-2597337088) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2618193854) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2618161552) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+3. 🗣 Commented on [#18](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/18#issuecomment-2597341245) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+4. 🔒 Closed issue [#18](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/18) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+5. 🔒 Closed issue [#30](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/30) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 <!--END_SECTION:activity-->
 
 <!--
