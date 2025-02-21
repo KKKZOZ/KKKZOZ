@@ -14,10 +14,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2635543033) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2618193854) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2618161552) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🗣 Commented on [#18](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/18#issuecomment-2597341245) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
+1. 🗣 Commented on [#24](https://github.com/KKKZOZ/hugo-admonitions/issues/24#issuecomment-2673197618) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2635543033) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+3. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2618193854) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🗣 Commented on [#20](https://github.com/KKKZOZ/hugo-admonitions/issues/20#issuecomment-2618161552) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 5. 🔒 Closed issue [#18](https://github.com/KKKZOZ/smart-meeting-transcript-system/issues/18) in [KKKZOZ/smart-meeting-transcript-system](https://github.com/KKKZOZ/smart-meeting-transcript-system)
 <!--END_SECTION:activity-->
 
