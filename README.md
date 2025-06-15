@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/KKKZOZ/oreo/issues/4) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-2. ❗ Opened issue [#3](https://github.com/KKKZOZ/oreo/issues/3) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-3. ❗ Opened issue [#2](https://github.com/KKKZOZ/oreo/issues/2) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-4. ❗ Opened issue [#1](https://github.com/KKKZOZ/oreo/issues/1) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-5. 🗣 Commented on [#30](https://github.com/KKKZOZ/hugo-admonitions/issues/30#issuecomment-2964717179) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. ❗ Opened issue [#5](https://github.com/KKKZOZ/oreo/issues/5) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+2. ❗ Opened issue [#4](https://github.com/KKKZOZ/oreo/issues/4) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+3. ❗ Opened issue [#3](https://github.com/KKKZOZ/oreo/issues/3) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+4. ❗ Opened issue [#2](https://github.com/KKKZOZ/oreo/issues/2) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+5. ❗ Opened issue [#1](https://github.com/KKKZOZ/oreo/issues/1) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
 <!--END_SECTION:activity-->
 
 <!--
