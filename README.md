@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/KKKZOZ/hugo-admonitions/issues/30#issuecomment-2964717179) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 💪 Opened PR [#154](https://github.com/skyzh/mini-lsm/pull/154) in [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm)
-3. 💪 Opened PR [#152](https://github.com/skyzh/mini-lsm/pull/152) in [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm)
-4. 💪 Opened PR [#18](https://github.com/skyzh/tiny-llm/pull/18) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
-5. 🗣 Commented on [#17](https://github.com/skyzh/tiny-llm/issues/17#issuecomment-2904070037) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
+1. ❗ Opened issue [#4](https://github.com/KKKZOZ/oreo/issues/4) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+2. ❗ Opened issue [#3](https://github.com/KKKZOZ/oreo/issues/3) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+3. ❗ Opened issue [#2](https://github.com/KKKZOZ/oreo/issues/2) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+4. ❗ Opened issue [#1](https://github.com/KKKZOZ/oreo/issues/1) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+5. 🗣 Commented on [#30](https://github.com/KKKZOZ/hugo-admonitions/issues/30#issuecomment-2964717179) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
