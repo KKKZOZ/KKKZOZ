@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/KKKZOZ/hugo-admonitions/pull/32) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 🗣 Commented on [#32](https://github.com/KKKZOZ/hugo-admonitions/pull/32#issuecomment-2999155330) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🎉 Merged PR [#31](https://github.com/KKKZOZ/hugo-admonitions/pull/31) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🗣 Commented on [#31](https://github.com/KKKZOZ/hugo-admonitions/pull/31#issuecomment-2988491605) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-5. ❗ Opened issue [#6](https://github.com/KKKZOZ/oreo/issues/6) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+1. 🗣 Commented on [#33](https://github.com/KKKZOZ/hugo-admonitions/issues/33#issuecomment-3007544172) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🎉 Merged PR [#32](https://github.com/KKKZOZ/hugo-admonitions/pull/32) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+3. 🗣 Commented on [#32](https://github.com/KKKZOZ/hugo-admonitions/pull/32#issuecomment-2999155330) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🎉 Merged PR [#31](https://github.com/KKKZOZ/hugo-admonitions/pull/31) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. 🗣 Commented on [#31](https://github.com/KKKZOZ/hugo-admonitions/pull/31#issuecomment-2988491605) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
