@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/KKKZOZ/oreo/issues/4) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-2. 🎉 Merged PR [#34](https://github.com/KKKZOZ/hugo-admonitions/pull/34) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🗣 Commented on [#34](https://github.com/KKKZOZ/hugo-admonitions/pull/34#issuecomment-3066320568) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🗣 Commented on [#194](https://github.com/benvinegar/counterscale/issues/194#issuecomment-3039017562) in [benvinegar/counterscale](https://github.com/benvinegar/counterscale)
-5. ❗ Opened issue [#194](https://github.com/benvinegar/counterscale/issues/194) in [benvinegar/counterscale](https://github.com/benvinegar/counterscale)
+1. ❗ Opened issue [#7](https://github.com/KKKZOZ/oreo/issues/7) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+2. 🔒 Closed issue [#4](https://github.com/KKKZOZ/oreo/issues/4) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+3. 🎉 Merged PR [#34](https://github.com/KKKZOZ/hugo-admonitions/pull/34) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🗣 Commented on [#34](https://github.com/KKKZOZ/hugo-admonitions/pull/34#issuecomment-3066320568) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. 🗣 Commented on [#194](https://github.com/benvinegar/counterscale/issues/194#issuecomment-3039017562) in [benvinegar/counterscale](https://github.com/benvinegar/counterscale)
 <!--END_SECTION:activity-->
 
 <!--
