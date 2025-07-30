@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/KKKZOZ/system_infomation/issues/6) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
-2. ❗ Opened issue [#5](https://github.com/KKKZOZ/system_infomation/issues/5) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
-3. ❗ Opened issue [#4](https://github.com/KKKZOZ/system_infomation/issues/4) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
-4. ❗ Opened issue [#3](https://github.com/KKKZOZ/system_infomation/issues/3) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
-5. ❌ Closed PR [#1](https://github.com/KKKZOZ/system_infomation/pull/1) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
+1. 🎉 Merged PR [#11](https://github.com/KKKZOZ/oreo/pull/11) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+2. ❗ Opened issue [#6](https://github.com/KKKZOZ/system_infomation/issues/6) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
+3. ❗ Opened issue [#5](https://github.com/KKKZOZ/system_infomation/issues/5) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
+4. ❗ Opened issue [#4](https://github.com/KKKZOZ/system_infomation/issues/4) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
+5. ❗ Opened issue [#3](https://github.com/KKKZOZ/system_infomation/issues/3) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
 <!--END_SECTION:activity-->
 
 <!--
