@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/KKKZOZ/oreo/pull/9) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-2. 🗣 Commented on [#9](https://github.com/KKKZOZ/oreo/pull/9#issuecomment-3113427907) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-3. 🗣 Commented on [#8](https://github.com/KKKZOZ/oreo/pull/8#issuecomment-3112306667) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-4. 🔒 Closed issue [#6](https://github.com/KKKZOZ/oreo/issues/6) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-5. ❗ Opened issue [#7](https://github.com/KKKZOZ/oreo/issues/7) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+1. ❌ Closed PR [#1](https://github.com/KKKZOZ/system_infomation/pull/1) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
+2. 🎉 Merged PR [#9](https://github.com/KKKZOZ/oreo/pull/9) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+3. 🗣 Commented on [#9](https://github.com/KKKZOZ/oreo/pull/9#issuecomment-3113427907) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+4. 🗣 Commented on [#8](https://github.com/KKKZOZ/oreo/pull/8#issuecomment-3112306667) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+5. 🔒 Closed issue [#6](https://github.com/KKKZOZ/oreo/issues/6) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
 <!--END_SECTION:activity-->
 
 <!--
