@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1308](https://github.com/vadimcn/codelldb/issues/1308) in [vadimcn/codelldb](https://github.com/vadimcn/codelldb)
-2. 🔒 Closed issue [#16](https://github.com/KKKZOZ/oreo/issues/16) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+1. 🔒 Closed issue [#16](https://github.com/KKKZOZ/oreo/issues/16) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+2. 🎉 Merged PR [#19](https://github.com/KKKZOZ/oreo/pull/19) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
 3. 🔒 Closed issue [#14](https://github.com/KKKZOZ/oreo/issues/14) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-4. 🗣 Commented on [#15](https://github.com/KKKZOZ/oreo/issues/15#issuecomment-3143138040) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-5. 🗣 Commented on [#14](https://github.com/KKKZOZ/oreo/issues/14#issuecomment-3143030934) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+4. 🎉 Merged PR [#17](https://github.com/KKKZOZ/oreo/pull/17) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+5. 🎉 Merged PR [#2](https://github.com/KKKZOZ/system_infomation/pull/2) in [KKKZOZ/system_infomation](https://github.com/KKKZOZ/system_infomation)
 <!--END_SECTION:activity-->
 
 <!--
