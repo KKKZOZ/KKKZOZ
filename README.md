@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/KKKZOZ/oreo/issues/22#issuecomment-3173487161) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-2. 🔒 Closed issue [#12](https://github.com/KKKZOZ/oreo/issues/12) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-3. 🔒 Closed issue [#15](https://github.com/KKKZOZ/oreo/issues/15) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-4. 🎉 Merged PR [#20](https://github.com/KKKZOZ/oreo/pull/20) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-5. ❌ Closed PR [#21](https://github.com/KKKZOZ/oreo/pull/21) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+1. 🔒 Closed issue [#22](https://github.com/KKKZOZ/oreo/issues/22) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+2. 🗣 Commented on [#22](https://github.com/KKKZOZ/oreo/issues/22#issuecomment-3173487161) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+3. 🔒 Closed issue [#12](https://github.com/KKKZOZ/oreo/issues/12) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+4. 🔒 Closed issue [#15](https://github.com/KKKZOZ/oreo/issues/15) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+5. 🎉 Merged PR [#20](https://github.com/KKKZOZ/oreo/pull/20) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
 <!--END_SECTION:activity-->
 
 <!--
