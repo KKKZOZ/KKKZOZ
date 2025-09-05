@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37086](https://github.com/zed-industries/zed/pull/37086) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 💪 Opened PR [#55](https://github.com/skyzh/tiny-llm/pull/55) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
-3. 💪 Opened PR [#53](https://github.com/skyzh/tiny-llm/pull/53) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
-4. 🗣 Commented on [#4868](https://github.com/zed-industries/zed/issues/4868#issuecomment-3193511356) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 🔒 Closed issue [#22](https://github.com/KKKZOZ/oreo/issues/22) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+1. 🗣 Commented on [#37597](https://github.com/zed-industries/zed/issues/37597#issuecomment-3256661460) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. ❗ Opened issue [#37597](https://github.com/zed-industries/zed/issues/37597) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 💪 Opened PR [#37086](https://github.com/zed-industries/zed/pull/37086) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 💪 Opened PR [#55](https://github.com/skyzh/tiny-llm/pull/55) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
+5. 💪 Opened PR [#53](https://github.com/skyzh/tiny-llm/pull/53) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
 <!--END_SECTION:activity-->
 
 <!--
