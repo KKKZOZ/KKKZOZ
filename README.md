@@ -14,8 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/KKKZOZ/oreo/issues/26) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
-2. 🔒 Closed issue [#6](https://github.com/JJF-LJY-ZHW-ZH-HYS/WebProject/issues/6) in [JJF-LJY-ZHW-ZH-HYS/WebProject](https://github.com/JJF-LJY-ZHW-ZH-HYS/WebProject)
+1. 💪 Opened PR [#44](undefined) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+2. ❗ Opened issue [#26](https://github.com/KKKZOZ/oreo/issues/26) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
 3. 🗣 Commented on [#37597](https://github.com/zed-industries/zed/issues/37597#issuecomment-3256661460) in [zed-industries/zed](https://github.com/zed-industries/zed)
 4. ❗ Opened issue [#37597](https://github.com/zed-industries/zed/issues/37597) in [zed-industries/zed](https://github.com/zed-industries/zed)
 5. 💪 Opened PR [#37086](https://github.com/zed-industries/zed/pull/37086) in [zed-industries/zed](https://github.com/zed-industries/zed)
