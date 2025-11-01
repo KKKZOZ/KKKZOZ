@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#167](https://github.com/zhlint-project/zhlint/issues/167) in [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint)
-2. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3426011345) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-3. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3425923574) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-4. 💪 Opened PR [#44](undefined) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-5. ❗ Opened issue [#26](https://github.com/KKKZOZ/oreo/issues/26) in [KKKZOZ/oreo](https://github.com/KKKZOZ/oreo)
+1. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3475886288) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+2. ❌ Reopened PR [#44](undefined) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+3. ❌ Closed PR [#44](undefined) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+4. ❗ Opened issue [#167](https://github.com/zhlint-project/zhlint/issues/167) in [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint)
+5. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3426011345) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 <!--END_SECTION:activity-->
 
 <!--
