@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29783](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 🗣 Commented on [#137](https://github.com/GeeeekExplorer/nano-vllm/issues/137#issuecomment-3596006631) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
-3. 🗣 Commented on [#36](https://github.com/KKKZOZ/hugo-admonitions/pull/36#issuecomment-3556784448) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3488775139) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-5. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3475886288) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+1. ❌ Merged PR [#29783](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+2. 💪 Opened PR [#29783](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 🗣 Commented on [#137](https://github.com/GeeeekExplorer/nano-vllm/issues/137#issuecomment-3596006631) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+4. 🗣 Commented on [#36](https://github.com/KKKZOZ/hugo-admonitions/pull/36#issuecomment-3556784448) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. 🗣 Commented on [#44](https://github.com/datawhalechina/hello-agents/pull/44#issuecomment-3488775139) in [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 <!--END_SECTION:activity-->
 
 <!--
