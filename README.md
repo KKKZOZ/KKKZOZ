@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/KKKZOZ/hugo-admonitions/issues/29) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 🗣 Commented on [#38](https://github.com/KKKZOZ/hugo-admonitions/pull/38#issuecomment-3621505715) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🗣 Commented on [#37](https://github.com/KKKZOZ/hugo-admonitions/pull/37#issuecomment-3621491443) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. ❌ Merged PR [#29783](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-5. 💪 Opened PR [#29783](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🗣 Commented on [#39](https://github.com/KKKZOZ/hugo-admonitions/pull/39#issuecomment-3630571661) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🔒 Closed issue [#29](https://github.com/KKKZOZ/hugo-admonitions/issues/29) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+3. 🗣 Commented on [#38](https://github.com/KKKZOZ/hugo-admonitions/pull/38#issuecomment-3621505715) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🗣 Commented on [#37](https://github.com/KKKZOZ/hugo-admonitions/pull/37#issuecomment-3621491443) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. ❌ Merged PR [#29783](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 <!--
