@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2158](https://github.com/LMCache/LMCache/issues/2158#issuecomment-3639951154) in [LMCache/LMCache](https://github.com/LMCache/LMCache)
-2. ❗ Opened issue [#40](https://github.com/KKKZOZ/hugo-admonitions/issues/40) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🗣 Commented on [#39](https://github.com/KKKZOZ/hugo-admonitions/pull/39#issuecomment-3631816292) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🗣 Commented on [#39](https://github.com/KKKZOZ/hugo-admonitions/pull/39#issuecomment-3630571661) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-5. 🔒 Closed issue [#29](https://github.com/KKKZOZ/hugo-admonitions/issues/29) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. 💪 Opened PR [#83](undefined) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
+2. 🗣 Commented on [#2158](https://github.com/LMCache/LMCache/issues/2158#issuecomment-3639951154) in [LMCache/LMCache](https://github.com/LMCache/LMCache)
+3. ❗ Opened issue [#40](https://github.com/KKKZOZ/hugo-admonitions/issues/40) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🗣 Commented on [#39](https://github.com/KKKZOZ/hugo-admonitions/pull/39#issuecomment-3631816292) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. 🗣 Commented on [#39](https://github.com/KKKZOZ/hugo-admonitions/pull/39#issuecomment-3630571661) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
