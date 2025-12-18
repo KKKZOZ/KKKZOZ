@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146#issuecomment-3669809291) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
-2. ❗ Opened issue [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
-3. ❌ Merged PR [#83](undefined) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
-4. 🗣 Commented on [#41](https://github.com/KKKZOZ/hugo-admonitions/issues/41#issuecomment-3658594215) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-5. 💪 Opened PR [#83](undefined) in [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
+1. 🔒 Closed issue [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+2. 🗣 Commented on [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146#issuecomment-3669879804) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+3. 🗣 Commented on [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146#issuecomment-3669865122) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+4. 🗣 Commented on [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146#issuecomment-3669809291) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+5. ❗ Opened issue [#146](https://github.com/GeeeekExplorer/nano-vllm/issues/146) in [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
 <!--END_SECTION:activity-->
 
 <!--
