@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/KKKZOZ/hugo-admonitions/pull/44#issuecomment-3678621697) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 🗣 Commented on [#44](https://github.com/KKKZOZ/hugo-admonitions/pull/44#issuecomment-3673064120) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🗣 Commented on [#44](https://github.com/KKKZOZ/hugo-admonitions/pull/44#issuecomment-3673060079) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🗣 Commented on [#38](https://github.com/KKKZOZ/hugo-admonitions/pull/38#issuecomment-3673056445) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-5. 🗣 Commented on [#43](https://github.com/KKKZOZ/hugo-admonitions/issues/43#issuecomment-3673028440) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. 🔓 Reopened issue [#29](https://github.com/KKKZOZ/hugo-admonitions/issues/29) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🗣 Commented on [#29](https://github.com/KKKZOZ/hugo-admonitions/issues/29#issuecomment-3678634199) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+3. 🗣 Commented on [#44](https://github.com/KKKZOZ/hugo-admonitions/pull/44#issuecomment-3678633947) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🔒 Closed issue [#43](https://github.com/KKKZOZ/hugo-admonitions/issues/43) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+5. 🗣 Commented on [#43](https://github.com/KKKZOZ/hugo-admonitions/issues/43#issuecomment-3678632061) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
