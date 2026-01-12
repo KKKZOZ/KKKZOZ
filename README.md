@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5475](https://github.com/usememos/memos/issues/5475#issuecomment-3734664767) in [usememos/memos](https://github.com/usememos/memos)
-2. ℹ️ Labeled issue [#5475](https://github.com/usememos/memos/issues/5475) in [usememos/memos](https://github.com/usememos/memos)
-3. ❗ Opened issue [#5475](https://github.com/usememos/memos/issues/5475) in [usememos/memos](https://github.com/usememos/memos)
-4. 🗣 Commented on [#45](https://github.com/KKKZOZ/hugo-admonitions/pull/45#issuecomment-3734132801) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-5. 🗣 Commented on [#6388](https://github.com/starship/starship/pull/6388#issuecomment-3695350081) in [starship/starship](https://github.com/starship/starship)
+1. 🗣 Commented on [#46](https://github.com/KKKZOZ/hugo-admonitions/pull/46#issuecomment-3738202089) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🗣 Commented on [#5475](https://github.com/usememos/memos/issues/5475#issuecomment-3734664767) in [usememos/memos](https://github.com/usememos/memos)
+3. ℹ️ Labeled issue [#5475](https://github.com/usememos/memos/issues/5475) in [usememos/memos](https://github.com/usememos/memos)
+4. ❗ Opened issue [#5475](https://github.com/usememos/memos/issues/5475) in [usememos/memos](https://github.com/usememos/memos)
+5. 🗣 Commented on [#45](https://github.com/KKKZOZ/hugo-admonitions/pull/45#issuecomment-3734132801) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
