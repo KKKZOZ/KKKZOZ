@@ -14,8 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Myriad-Dreamin/tylant/issues/5#issuecomment-3835560594) in [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant)
-2. 🔒 Closed issue [#40](https://github.com/KKKZOZ/hugo-admonitions/issues/40) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. 💪 Opened PR [#2](https://github.com/yijunyu/cargo-slicer/pull/2) in [yijunyu/cargo-slicer](https://github.com/yijunyu/cargo-slicer)
+2. 🗣 Commented on [#5](https://github.com/Myriad-Dreamin/tylant/issues/5#issuecomment-3835560594) in [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant)
 3. 🗣 Commented on [#47](https://github.com/KKKZOZ/hugo-admonitions/pull/47#issuecomment-3778241526) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 4. 🗣 Commented on [#46](https://github.com/KKKZOZ/hugo-admonitions/pull/46#issuecomment-3738202089) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 5. 🗣 Commented on [#5475](https://github.com/usememos/memos/issues/5475#issuecomment-3734664767) in [usememos/memos](https://github.com/usememos/memos)
