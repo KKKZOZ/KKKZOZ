@@ -14,7 +14,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/yijunyu/cargo-slicer/pull/2) in [yijunyu/cargo-slicer](https://github.com/yijunyu/cargo-slicer)
+1. 🗣 Commented on [#15](https://github.com/dilab-zju/self-speculative-decoding/issues/15#issuecomment-4023211814) in [dilab-zju/self-speculative-decoding](https://github.com/dilab-zju/self-speculative-decoding)
 2. 🗣 Commented on [#5](https://github.com/Myriad-Dreamin/tylant/issues/5#issuecomment-3835560594) in [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant)
 3. 🗣 Commented on [#47](https://github.com/KKKZOZ/hugo-admonitions/pull/47#issuecomment-3778241526) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 4. 🗣 Commented on [#46](https://github.com/KKKZOZ/hugo-admonitions/pull/46#issuecomment-3738202089) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
