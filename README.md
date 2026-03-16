@@ -14,9 +14,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/yilewang/llm-for-zotero/issues/57) in [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero)
-2. 🗣 Commented on [#15](https://github.com/dilab-zju/self-speculative-decoding/issues/15#issuecomment-4023211814) in [dilab-zju/self-speculative-decoding](https://github.com/dilab-zju/self-speculative-decoding)
-3. 🗣 Commented on [#47](https://github.com/KKKZOZ/hugo-admonitions/pull/47#issuecomment-3778241526) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. 🗣 Commented on [#57](https://github.com/yilewang/llm-for-zotero/issues/57#issuecomment-4068607835) in [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero)
+2. ❗ Opened issue [#57](https://github.com/yilewang/llm-for-zotero/issues/57) in [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero)
+3. 🗣 Commented on [#15](https://github.com/dilab-zju/self-speculative-decoding/issues/15#issuecomment-4023211814) in [dilab-zju/self-speculative-decoding](https://github.com/dilab-zju/self-speculative-decoding)
 4. 🗣 Commented on [#46](https://github.com/KKKZOZ/hugo-admonitions/pull/46#issuecomment-3738202089) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 5. 🗣 Commented on [#5475](https://github.com/usememos/memos/issues/5475#issuecomment-3734664767) in [usememos/memos](https://github.com/usememos/memos)
 <!--END_SECTION:activity-->
