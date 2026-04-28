@@ -14,10 +14,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4087](https://github.com/SagerNet/sing-box/issues/4087) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-2. ❗ Opened issue [#4088](https://github.com/SagerNet/sing-box/issues/4088) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-3. ❗ Opened issue [#4087](https://github.com/SagerNet/sing-box/issues/4087) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-4. 🗣 Commented on [#46](https://github.com/KKKZOZ/hugo-admonitions/pull/46#issuecomment-3738202089) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. 🗣 Commented on [#3927](https://github.com/SagerNet/sing-box/issues/3927#issuecomment-4334109670) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+2. 🔒 Closed issue [#4087](https://github.com/SagerNet/sing-box/issues/4087) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+3. ❗ Opened issue [#4088](https://github.com/SagerNet/sing-box/issues/4088) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+4. ❗ Opened issue [#4087](https://github.com/SagerNet/sing-box/issues/4087) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 5. 🗣 Commented on [#5475](https://github.com/usememos/memos/issues/5475#issuecomment-3734664767) in [usememos/memos](https://github.com/usememos/memos)
 <!--END_SECTION:activity-->
 
