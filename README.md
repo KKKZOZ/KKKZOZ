@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-2. 💪 Opened PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-3. 🗣 Commented on [#3927](https://github.com/SagerNet/sing-box/issues/3927#issuecomment-4334109670) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-4. 🔒 Closed issue [#4087](https://github.com/SagerNet/sing-box/issues/4087) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-5. ❗ Opened issue [#4088](https://github.com/SagerNet/sing-box/issues/4088) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+1. ❗ Opened issue [#2](https://github.com/KKKZOZ/bilibili2text/issues/2) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+2. 🎉 Merged PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+3. 💪 Opened PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+4. 🗣 Commented on [#3927](https://github.com/SagerNet/sing-box/issues/3927#issuecomment-4334109670) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+5. 🔒 Closed issue [#4087](https://github.com/SagerNet/sing-box/issues/4087) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 <!--END_SECTION:activity-->
 
 <!--
