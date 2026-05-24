@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/KKKZOZ/bilibili2text/issues/2) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-2. ❗ Opened issue [#2](https://github.com/KKKZOZ/bilibili2text/issues/2) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-3. 🎉 Merged PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-4. 💪 Opened PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-5. 🗣 Commented on [#3927](https://github.com/SagerNet/sing-box/issues/3927#issuecomment-4334109670) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+1. 🗣 Commented on [#48](https://github.com/KKKZOZ/hugo-admonitions/pull/48#issuecomment-4527262702) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🔒 Closed issue [#2](https://github.com/KKKZOZ/bilibili2text/issues/2) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+3. ❗ Opened issue [#2](https://github.com/KKKZOZ/bilibili2text/issues/2) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+4. 🎉 Merged PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+5. 💪 Opened PR [#1](https://github.com/KKKZOZ/bilibili2text/pull/1) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
 <!--END_SECTION:activity-->
 
 <!--
