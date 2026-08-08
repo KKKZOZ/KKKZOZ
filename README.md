@@ -14,8 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/KKKZOZ/hugo-admonitions/pull/36#issuecomment-5128038871) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-2. 🔒 Closed issue [#3](https://github.com/KKKZOZ/bilibili2text/issues/3) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+1. 🗣 Commented on [#36](https://github.com/KKKZOZ/hugo-admonitions/pull/36#issuecomment-5225798735) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+2. 🗣 Commented on [#36](https://github.com/KKKZOZ/hugo-admonitions/pull/36#issuecomment-5128038871) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 3. 🔒 Closed issue [#5](https://github.com/KKKZOZ/bilibili2text/issues/5) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
 4. ❗ Opened issue [#5](https://github.com/KKKZOZ/bilibili2text/issues/5) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
 5. ❗ Opened issue [#4](https://github.com/KKKZOZ/bilibili2text/issues/4) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
