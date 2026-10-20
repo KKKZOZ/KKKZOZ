@@ -14,10 +14,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
-2. 🗣 Commented on [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49#issuecomment-6249721757) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-3. 🔒 Closed issue [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-4. 🔒 Closed issue [#41](https://github.com/KKKZOZ/hugo-admonitions/issues/41) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. ❗ Opened issue [#2](https://github.com/tola-rs/example-sites/issues/2) in [tola-rs/example-sites](https://github.com/tola-rs/example-sites)
+2. 💪 Opened PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
+3. 🗣 Commented on [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49#issuecomment-6249721757) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+4. 🔒 Closed issue [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 5. 🗣 Commented on [#36](https://github.com/KKKZOZ/hugo-admonitions/pull/36#issuecomment-5226421541) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
