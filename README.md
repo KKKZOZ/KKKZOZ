@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
-2. ❗ Opened issue [#2](https://github.com/tola-rs/example-sites/issues/2) in [tola-rs/example-sites](https://github.com/tola-rs/example-sites)
-3. 💪 Opened PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
-4. 🗣 Commented on [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49#issuecomment-6249721757) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-5. 🔒 Closed issue [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
+1. 🔒 Closed issue [#8](https://github.com/KKKZOZ/bilibili2text/issues/8) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
+2. 🎉 Merged PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
+3. ❗ Opened issue [#2](https://github.com/tola-rs/example-sites/issues/2) in [tola-rs/example-sites](https://github.com/tola-rs/example-sites)
+4. 💪 Opened PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
+5. 🗣 Commented on [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49#issuecomment-6249721757) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
 <!--END_SECTION:activity-->
 
 <!--
