@@ -1,17 +1,70 @@
-name: Update README
+name: Update profile
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  posts:
+    name: List the latest blog posts in the README
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.kkkzoz.top/index.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest blog posts"
+
+  images:
+    name: Draw the stats cards and the contribution snake
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    # Colours follow the NASApunk theme: orange titles, teal icons and cells.
+    env:
+      STATS: show_icons=true&hide_rank=true&include_all_commits=true&card_width=400&hide_border=true&bg_color=00000000
+      LANGS: layout=compact&langs_count=8&card_width=400&hide_border=true&bg_color=00000000
+      LIGHT: title_color=cb4b22&icon_color=286379&text_color=222a2d
+      DARK: title_color=ec6e42&icon_color=7db4c8&text_color=dde2dc
+    steps:
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: ${{ env.STATS }}&${{ env.LIGHT }}
+          path: dist/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: ${{ env.STATS }}&${{ env.DARK }}
+          path: dist/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: ${{ env.LANGS }}&${{ env.LIGHT }}
+          path: dist/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: ${{ env.LANGS }}&${{ env.DARK }}
+          path: dist/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#cb4b22&color_dots=#e6e7dd,#b7cfcb,#719c98,#3f7782,#286379
+            dist/snake-dark.svg?color_snake=#ec6e42&color_dots=#20282b,#2f4a4f,#4f7f86,#7db4c8,#b6dbe6
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,37 +1,65 @@
-### Hi there 👋
+<a href="https://blog.kkkzoz.top/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="KKKZOZ: ML systems">
+  </picture>
+</a>
 
+[![Blog](https://img.shields.io/badge/blog-kkkzoz.top-286379?style=flat)](https://blog.kkkzoz.top/)
+[![Email](https://img.shields.io/badge/email-kkkzoz%40qq.com-cb4b22?style=flat)](mailto:kkkzoz@qq.com)
 [![wakatime](https://wakatime.com/badge/user/3d3cd454-4851-419e-ab98-0f85a4d69dbf.svg)](https://wakatime.com/@3d3cd454-4851-419e-ab98-0f85a4d69dbf)
 
-![](https://komarev.com/ghpvc/?username=kkkzoz&color=green)
+### Projects
 
-- 🌱 I’m currently learning Software Engineering, Distributed System
-- 📫 How to reach me: [My Blog](https://blog.kkkzoz.top/), <kkkzoz@qq.com>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KKKZOZ/hugo-admonitions"><b>hugo-admonitions</b></a>
+      <img src="https://img.shields.io/github/stars/KKKZOZ/hugo-admonitions?style=flat&label=%E2%98%85&labelColor=222a2d&color=cb4b22" align="right" alt="stars"><br>
+      <sub>Lightweight, customizable admonition blocks for Hugo sites.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KKKZOZ/bilibili2text"><b>bilibili2text</b></a>
+      <img src="https://img.shields.io/github/stars/KKKZOZ/bilibili2text?style=flat&label=%E2%98%85&labelColor=222a2d&color=cb4b22" align="right" alt="stars"><br>
+      <sub>Bilibili video → transcript → LLM summary, exported as Markdown, PDF or PNG.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KKKZOZ/tola-theme-nasapunk"><b>tola-theme-nasapunk</b></a>
+      <img src="https://img.shields.io/github/stars/KKKZOZ/tola-theme-nasapunk?style=flat&label=%E2%98%85&labelColor=222a2d&color=cb4b22" align="right" alt="stars"><br>
+      <sub>A NASApunk blog theme for Tola, written in Typst.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KKKZOZ/touying-nasapunk"><b>touying-nasapunk</b></a>
+      <img src="https://img.shields.io/github/stars/KKKZOZ/touying-nasapunk?style=flat&label=%E2%98%85&labelColor=222a2d&color=cb4b22" align="right" alt="stars"><br>
+      <sub>Mission-briefing slides for Touying, in the same style.</sub>
+    </td>
+  </tr>
+</table>
 
-![](https://raw.githubusercontent.com/kkkzoz/github-stats/actions_branch/generated_images/languages.svg)
+### Latest posts
 
----
+<!-- BLOG-POST-LIST:START -->
+- [Qwen3.5 Dense Model Architecture](http://blog.kkkzoz.top/posts/learning/models/qwen3.5/) <sub>2026-08-19</sub>
+- [TileLang Programming Model](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/programming-model/) <sub>2026-08-18</sub>
+- [Production Ready TileLang Ops Framework](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/production-ready-tilelang-ops/) <sub>2026-08-17</sub>
+- [ML Compilers Overview](http://blog.kkkzoz.top/posts/learning/ml-compilers/ml-compiler/) <sub>2026-08-11</sub>
+- [vLLM and torch.compile](http://blog.kkkzoz.top/posts/learning/ml-compilers/vllm--torch.compile/) <sub>2026-08-10</sub>
+<!-- BLOG-POST-LIST:END -->
 
-### :zap: Recent Activity
+### Stats
 
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/KKKZOZ/bilibili2text/issues/8) in [KKKZOZ/bilibili2text](https://github.com/KKKZOZ/bilibili2text)
-2. 🎉 Merged PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
-3. ❗ Opened issue [#2](https://github.com/tola-rs/example-sites/issues/2) in [tola-rs/example-sites](https://github.com/tola-rs/example-sites)
-4. 💪 Opened PR [#6171](https://github.com/typst/packages/pull/6171) in [typst/packages](https://github.com/typst/packages)
-5. 🗣 Commented on [#49](https://github.com/KKKZOZ/hugo-admonitions/issues/49#issuecomment-6249721757) in [KKKZOZ/hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions)
-<!--END_SECTION:activity-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KKKZOZ/KKKZOZ/output/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/KKKZOZ/KKKZOZ/output/stats-light.svg" width="49%" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KKKZOZ/KKKZOZ/output/langs-dark.svg">
+  <img src="https://raw.githubusercontent.com/KKKZOZ/KKKZOZ/output/langs-light.svg" width="49%" alt="Most used languages">
+</picture>
 
-<!--
-**KKKZOZ/KKKZOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KKKZOZ/KKKZOZ/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/KKKZOZ/KKKZOZ/output/snake-light.svg" width="100%" alt="Contribution graph eaten by a snake">
+</picture>
