@@ -40,8 +40,7 @@
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Qwen3.5 Dense Model Architecture](http://blog.kkkzoz.top/posts/learning/models/qwen3.5/) <sub>2026-08-19</sub>
+<!-- BLOG-POST-LIST:START -->- [Qwen3.5 Dense Model Architecture](http://blog.kkkzoz.top/posts/learning/models/qwen3.5/) <sub>2026-08-19</sub>
 - [TileLang Programming Model](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/programming-model/) <sub>2026-08-18</sub>
 - [Production Ready TileLang Ops Framework](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/production-ready-tilelang-ops/) <sub>2026-08-17</sub>
 - [ML Compilers Overview](http://blog.kkkzoz.top/posts/learning/ml-compilers/ml-compiler/) <sub>2026-08-11</sub>
