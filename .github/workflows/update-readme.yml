@@ -21,7 +21,6 @@ jobs:
           template: '<tr><td valign="top"><a href="$url"><b>$title</b></a><img src="https://img.shields.io/badge/$date-286379?style=flat" align="right" alt="$date"><br><sub>$description</sub></td></tr>$newline'
           date_format: "yyyy.mm.dd"
           description_max_length: 140
-          tag_post_pre_newline: true
           commit_message: "chore: update latest blog posts"
 
   images:
