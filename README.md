@@ -40,11 +40,11 @@
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [Qwen3.5 Dense Model Architecture](http://blog.kkkzoz.top/posts/learning/models/qwen3.5/) <sub>2026-08-19</sub>
-- [TileLang Programming Model](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/programming-model/) <sub>2026-08-18</sub>
-- [Production Ready TileLang Ops Framework](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/production-ready-tilelang-ops/) <sub>2026-08-17</sub>
-- [ML Compilers Overview](http://blog.kkkzoz.top/posts/learning/ml-compilers/ml-compiler/) <sub>2026-08-11</sub>
-- [vLLM and torch.compile](http://blog.kkkzoz.top/posts/learning/ml-compilers/vllm--torch.compile/) <sub>2026-08-10</sub>
+<!-- BLOG-POST-LIST:START -->- [NVLink vs PCIe in Practice: Bandwidth and LLM Serving](https://blog.kkkzoz.top/posts/ml-systems/nvlink-vs-pcie-inference/) <sub>2026-11-02</sub>
+- [GPU Server Topology: NVLink, PCIe and NUMA](https://blog.kkkzoz.top/posts/ml-systems/gpu-server-topology/) <sub>2026-10-30</sub>
+- [ggml Q4_0 vec_dot Walkthrough](https://blog.kkkzoz.top/posts/ml-systems/ggml-q4-0-vec-dot/) <sub>2026-10-29</sub>
+- [KTransformers: CPU/GPU Hybrid Inference for MoE Models](https://blog.kkkzoz.top/posts/papers/llm/ktransformers-deep-dive/) <sub>2026-10-24</sub>
+- [torch.compile Walkthrough](https://blog.kkkzoz.top/posts/ml-systems/ml-compilers/torch-compile-walkthrough/) <sub>2026-10-20</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
