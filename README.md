@@ -40,12 +40,11 @@
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [NVLink vs PCIe in Practice: Bandwidth and LLM Serving](https://blog.kkkzoz.top/posts/ml-systems/nvlink-vs-pcie-inference/) <sub>2026-11-02</sub>
-- [GPU Server Topology: NVLink, PCIe and NUMA](https://blog.kkkzoz.top/posts/ml-systems/gpu-server-topology/) <sub>2026-10-30</sub>
-- [ggml Q4_0 vec_dot Walkthrough](https://blog.kkkzoz.top/posts/ml-systems/ggml-q4-0-vec-dot/) <sub>2026-10-29</sub>
-- [KTransformers: CPU/GPU Hybrid Inference for MoE Models](https://blog.kkkzoz.top/posts/papers/llm/ktransformers-deep-dive/) <sub>2026-10-24</sub>
-- [torch.compile Walkthrough](https://blog.kkkzoz.top/posts/ml-systems/ml-compilers/torch-compile-walkthrough/) <sub>2026-10-20</sub>
+<table>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</table>
+<p align="right"><sub><a href="https://blog.kkkzoz.top/archive/">All posts →</a></sub></p>
 
 ### Stats
 
