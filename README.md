@@ -40,12 +40,15 @@
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [Qwen3.5 Dense Model Architecture](http://blog.kkkzoz.top/posts/learning/models/qwen3.5/) <sub>2026-08-19</sub>
-- [TileLang Programming Model](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/programming-model/) <sub>2026-08-18</sub>
-- [Production Ready TileLang Ops Framework](http://blog.kkkzoz.top/posts/learning/gpu-kernels/tilelang/production-ready-tilelang-ops/) <sub>2026-08-17</sub>
-- [ML Compilers Overview](http://blog.kkkzoz.top/posts/learning/ml-compilers/ml-compiler/) <sub>2026-08-11</sub>
-- [vLLM and torch.compile](http://blog.kkkzoz.top/posts/learning/ml-compilers/vllm--torch.compile/) <sub>2026-08-10</sub>
+<table>
+<!-- BLOG-POST-LIST:START --><tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/nvlink-vs-pcie-inference/"><b>NVLink vs PCIe in Practice: Bandwidth and LLM Serving</b></a><img src="https://img.shields.io/badge/2026.11.02-286379?style=flat" align="right" alt="2026.11.02"><br><sub>Peer-to-peer and NCCL bandwidth measured on an RTX A6000 and an A100 server, and what NVLink and PCIe change when vLLM serves Qwen3.8-27B wi...</sub></td></tr>
+<tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/gpu-server-topology/"><b>GPU Server Topology: NVLink, PCIe and NUMA</b></a><img src="https://img.shields.io/badge/2026.10.30-286379?style=flat" align="right" alt="2026.10.30"><br><sub>What NV#, PIX, PXB, PHB, NODE and SYS in nvidia-smi topo -m mean on the board of a two-socket GPU server, with two real machines.</sub></td></tr>
+<tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/ggml-q4-0-vec-dot/"><b>ggml Q4_0 vec_dot Walkthrough</b></a><img src="https://img.shields.io/badge/2026.10.29-286379?style=flat" align="right" alt="2026.10.29"><br><sub>How ggml&#39;s CPU backend computes a Q4_0 matrix-vector product during decode, split across threads, with and without repacking.</sub></td></tr>
+<tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/papers/llm/ktransformers-deep-dive/"><b>KTransformers: CPU/GPU Hybrid Inference for MoE Models</b></a><img src="https://img.shields.io/badge/2026.10.24-286379?style=flat" align="right" alt="2026.10.24"><br><sub>How KTransformers &lpar;SOSP &#39;25&rpar; runs the 671B DeepSeek-V3 on one GPU plus a dual-socket Xeon: AMX-aware CPU kernels, a single CUDA Graph for th...</sub></td></tr>
+<tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/ml-compilers/torch-compile-walkthrough/"><b>torch.compile Walkthrough</b></a><img src="https://img.shields.io/badge/2026.10.20-286379?style=flat" align="right" alt="2026.10.20"><br><sub>用 &lpar;&lpar;a + b&rpar; * c.relu&lpar;&rpar;&rpar;.sum&lpar;dim=-1&rpar; 跟踪 torch.compile 的每个阶段：Dynamo FX Graph、AOT ATen Graph、TorchInductor IR（TensorBox / StorageBox / Pointwise...</sub></td></tr>
 <!-- BLOG-POST-LIST:END -->
+</table>
+<p align="right"><sub><a href="https://blog.kkkzoz.top/archive/">All posts →</a></sub></p>
 
 ### Stats
 
