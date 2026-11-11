@@ -40,14 +40,14 @@
 
 ### Latest posts
 
-<table>
+<p align="center">
 <!-- BLOG-POST-LIST:START --><tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/vllm-hybrid-kv-cache/"><b>vLLM Hybrid KV Cache</b></a><img src="https://img.shields.io/badge/2026.11.04-286379?style=flat" align="right" alt="2026.11.04"><br><sub>Why vLLM&#39;s &quot;GPU KV cache size&quot; for Qwen3.8-27B is not a count of token slots and changes with max_model_len: GDN state, attention pages and...</sub></td></tr>
 <tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/ml-compilers/torchinductor-fusion/"><b>TorchInductor Pipeline 与算子融合</b></a><img src="https://img.shields.io/badge/2026.11.04-286379?style=flat" align="right" alt="2026.11.04"><br><sub>跟着一个 10 个算子的例子走完 TorchInductor 的四个阶段：Graph Preprocessing、Lowering、Scheduling、Codegen，重点是 Scheduler 怎么用 can_fuse、score_fusion 和 fuse_nodes 决定...</sub></td></tr>
 <tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/gpu-kernels/tilelang-gemv/"><b>Learning TileLang with GEMV</b></a><img src="https://img.shields.io/badge/2026.11.04-286379?style=flat" align="right" alt="2026.11.04"><br><sub>用 GEMV 入门 TileLang：同一个 FP16 GEMV 写十四遍，依次用到 T.Kernel、线程绑定、shared / local / fragment 三种分配、T.copy、T.vectorized、T.Pipelined 和 reducer，以及 warp、合并...</sub></td></tr>
 <tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/nvlink-vs-pcie-inference/"><b>NVLink vs PCIe in Practice: Bandwidth and LLM Serving</b></a><img src="https://img.shields.io/badge/2026.11.02-286379?style=flat" align="right" alt="2026.11.02"><br><sub>Peer-to-peer and NCCL bandwidth measured on an RTX A6000 and an A100 server, and what NVLink and PCIe change when vLLM serves Qwen3.8-27B wi...</sub></td></tr>
 <tr><td valign="top"><a href="https://blog.kkkzoz.top/posts/ml-systems/gpu-server-topology/"><b>GPU Server Topology: NVLink, PCIe and NUMA</b></a><img src="https://img.shields.io/badge/2026.10.30-286379?style=flat" align="right" alt="2026.10.30"><br><sub>What NV#, PIX, PXB, PHB, NODE and SYS in nvidia-smi topo -m mean on the board of a two-socket GPU server, with two real machines.</sub></td></tr>
 <!-- BLOG-POST-LIST:END -->
-</table>
+</p>
 <p align="right"><sub><a href="https://blog.kkkzoz.top/archive/">All posts →</a></sub></p>
 
 ### Stats

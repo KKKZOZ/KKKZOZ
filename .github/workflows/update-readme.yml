@@ -15,12 +15,13 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.kkkzoz.top/feed.xml"
-          max_post_count: 5
-          # One card row per post, styled like the Projects table; the <table>
-          # wrapper lives in README.md around the BLOG-POST-LIST markers.
-          template: '<tr><td valign="top"><a href="$url"><b>$title</b></a><img src="https://img.shields.io/badge/$date-286379?style=flat" align="right" alt="$date"><br><sub>$description</sub></td></tr>$newline'
-          date_format: "yyyy.mm.dd"
-          description_max_length: 140
+          max_post_count: 6
+          # Each post's 1200x630 preview card (social.png next to its
+          # index.html), two per row, linking to the post. The action matches
+          # `$url\b`, so the card URL is built in item_exec as a custom tag.
+          custom_tags: "card/card/"
+          item_exec: "post.card = post.url + 'social.png'"
+          template: '<a href="$url"><img src="$card" width="49%" alt="$title"></a>$newline'
           commit_message: "chore: update latest blog posts"
 
   images:
