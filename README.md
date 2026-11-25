@@ -41,12 +41,12 @@
 ### Latest posts
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><a href="https://blog.kkkzoz.top/posts/ml-systems/cpu-gemv-bandwidth/"><img src="https://blog.kkkzoz.top/posts/ml-systems/cpu-gemv-bandwidth/social.png" width="49%" alt="Decode GEMV on the CPU: Bandwidth, Compute or NUMA"></a>
+<!-- BLOG-POST-LIST:START --><a href="https://blog.kkkzoz.top/posts/ml-systems/binary-coding-quantization/"><img src="https://blog.kkkzoz.top/posts/ml-systems/binary-coding-quantization/social.png" width="49%" alt="Binary-Coding Quantization: Weights as Sums of Signs"></a>
+<a href="https://blog.kkkzoz.top/posts/ml-systems/math/eval-significance/"><img src="https://blog.kkkzoz.top/posts/ml-systems/math/eval-significance/social.png" width="49%" alt="Comparing Two Eval Runs: Standard Error, z and Pairing"></a>
+<a href="https://blog.kkkzoz.top/posts/ml-systems/cpu-gemv-bandwidth/"><img src="https://blog.kkkzoz.top/posts/ml-systems/cpu-gemv-bandwidth/social.png" width="49%" alt="Decode GEMV on the CPU: Bandwidth, Compute or NUMA"></a>
 <a href="https://blog.kkkzoz.top/posts/ml-systems/gpu-kernels/cuda-hardware-hierarchy/"><img src="https://blog.kkkzoz.top/posts/ml-systems/gpu-kernels/cuda-hardware-hierarchy/social.png" width="49%" alt="CUDA Hardware Hierarchy: From SMs to Lanes"></a>
 <a href="https://blog.kkkzoz.top/posts/ml-systems/vllm-hybrid-kv-cache/"><img src="https://blog.kkkzoz.top/posts/ml-systems/vllm-hybrid-kv-cache/social.png" width="49%" alt="vLLM Hybrid KV Cache"></a>
 <a href="https://blog.kkkzoz.top/posts/ml-systems/ml-compilers/torchinductor-fusion/"><img src="https://blog.kkkzoz.top/posts/ml-systems/ml-compilers/torchinductor-fusion/social.png" width="49%" alt="TorchInductor Pipeline 与算子融合"></a>
-<a href="https://blog.kkkzoz.top/posts/ml-systems/gpu-kernels/tilelang-gemv/"><img src="https://blog.kkkzoz.top/posts/ml-systems/gpu-kernels/tilelang-gemv/social.png" width="49%" alt="Learning TileLang with GEMV"></a>
-<a href="https://blog.kkkzoz.top/posts/ml-systems/nvlink-vs-pcie-inference/"><img src="https://blog.kkkzoz.top/posts/ml-systems/nvlink-vs-pcie-inference/social.png" width="49%" alt="NVLink vs PCIe in Practice: Bandwidth and LLM Serving"></a>
 <!-- BLOG-POST-LIST:END -->
 </p>
 <p align="right"><sub><a href="https://blog.kkkzoz.top/archive/">All posts →</a></sub></p>
